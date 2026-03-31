@@ -1,5 +1,5 @@
 owner: adrianwedd
-repo: status
+repo: twitb-status
 
 sites:
   # Core pages
@@ -54,7 +54,7 @@ sites:
       - 200
 
 status-website:
-  baseUrl: /status
+  cname: status.thiswasntinthebrochure.wtf
   logoUrl: https://thiswasntinthebrochure.wtf/favicon.svg
   favicon: https://thiswasntinthebrochure.wtf/favicon.svg
   name: "This Wasn't in the Brochure"
