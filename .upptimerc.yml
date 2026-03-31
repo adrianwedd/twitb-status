@@ -1,36 +1,78 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: adrianwedd
+repo: status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  # Core pages
+  - name: Homepage
+    url: https://thiswasntinthebrochure.wtf
+    expectedStatusCodes:
+      - 200
+
+  - name: Book Index
+    url: https://thiswasntinthebrochure.wtf/book
+    expectedStatusCodes:
+      - 200
+
+  - name: Research Blog
+    url: https://thiswasntinthebrochure.wtf/research
+    expectedStatusCodes:
+      - 200
+
+  # Free chapter (verifies content serving + locale middleware)
+  - name: Chapter 1
+    url: https://thiswasntinthebrochure.wtf/book/chapter-1
+    expectedStatusCodes:
+      - 200
+
+  # Chapter subpages (new)
+  - name: Chapter 1 Video
+    url: https://thiswasntinthebrochure.wtf/book/chapter-1/video
+    expectedStatusCodes:
+      - 200
+
+  - name: Chapter 1 Slides
+    url: https://thiswasntinthebrochure.wtf/book/chapter-1/slides
+    expectedStatusCodes:
+      - 200
+
+  # Health check (deep — verifies KV + R2)
+  - name: Health (Deep)
+    url: https://thiswasntinthebrochure.wtf/api/health?deep
+    expectedStatusCodes:
+      - 200
+
+  # R2 CDN
+  - name: R2 CDN (Assets)
+    url: https://assets.thiswasntinthebrochure.wtf/test.txt
+    expectedStatusCodes:
+      - 200
+
+  # RSS feed
+  - name: Research RSS
+    url: https://thiswasntinthebrochure.wtf/research/rss.xml
+    expectedStatusCodes:
+      - 200
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  baseUrl: /status
+  logoUrl: https://thiswasntinthebrochure.wtf/favicon.svg
+  favicon: https://thiswasntinthebrochure.wtf/favicon.svg
+  name: "This Wasn't in the Brochure"
+  introTitle: "**Service Status** for thiswasntinthebrochure.wtf"
+  introMessage: "Real-time uptime monitoring for the book website, R2 CDN, and API endpoints. Powered by [Upptime](https://github.com/upptime/upptime)."
+  theme: dark
   navbar:
     - title: Status
       href: /
+    - title: Website
+      href: https://thiswasntinthebrochure.wtf
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+i18n:
+  activeIncidents: Active incidents
+  allSystemsOperational: All systems operational
+  incidentReport: "Incident Report for {0}"
+  liveStatus: Live status
+  overallUptime: "Overall uptime: {0}"
+  pastIncidents: Past incidents
