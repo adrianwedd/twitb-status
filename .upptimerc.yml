@@ -90,6 +90,50 @@ sites:
     expectedStatusCodes:
       - 405
 
+  # --- Social Posting Infrastructure ---
+
+  # Facebook Graph API (page post publishing cron)
+  - name: Facebook Graph API
+    url: https://graph.facebook.com/v22.0/me
+    expectedStatusCodes:
+      - 400
+    icon: https://www.facebook.com/favicon.ico
+
+  # Gmail API (drip emails, newsletter)
+  - name: Gmail API
+    url: https://gmail.googleapis.com
+    expectedStatusCodes:
+      - 200
+      - 404
+
+  # --- Platform Status Pages ---
+
+  # GitHub (CI/CD for Gemini workflows, Upptime)
+  - name: GitHub
+    url: https://www.githubstatus.com/api/v2/status.json
+    expectedStatusCodes:
+      - 200
+
+  # Cloudflare (Pages hosting, KV, R2, Workers)
+  - name: Cloudflare
+    url: https://www.cloudflarestatus.com/api/v2/status.json
+    expectedStatusCodes:
+      - 200
+
+  # --- Payments & Commerce ---
+
+  # Stripe (books.by checkout buttons)
+  - name: Stripe (JS SDK)
+    url: https://js.stripe.com/v3/
+    expectedStatusCodes:
+      - 200
+
+  # Crossref (citation DOI resolution)
+  - name: Crossref API
+    url: https://api.crossref.org/works?rows=0
+    expectedStatusCodes:
+      - 200
+
 status-website:
   cname: status.thiswasntinthebrochure.wtf
   logoUrl: https://thiswasntinthebrochure.wtf/favicon.svg
