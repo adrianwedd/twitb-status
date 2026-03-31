@@ -53,6 +53,43 @@ sites:
     expectedStatusCodes:
       - 200
 
+  # --- External Dependencies ---
+
+  # Payments & checkout
+  - name: Lemon Squeezy (Checkout)
+    url: https://thiswasntinthebrochure.lemonsqueezy.com
+    expectedStatusCodes:
+      - 200
+
+  - name: Lemon Squeezy (API)
+    url: https://api.lemonsqueezy.com/v1
+    expectedStatusCodes:
+      - 401
+    icon: https://app.lemonsqueezy.com/favicon.ico
+
+  # Paperback distribution
+  - name: Books.by Storefront
+    url: https://books.by/adrian-wedd
+    expectedStatusCodes:
+      - 200
+
+  # Google services (fonts, analytics, auth)
+  - name: Google Fonts
+    url: https://fonts.googleapis.com/css2?family=IM+Fell+English&display=swap
+    expectedStatusCodes:
+      - 200
+
+  - name: Google Analytics
+    url: https://www.google-analytics.com
+    expectedStatusCodes:
+      - 200
+      - 302
+
+  - name: Google OAuth
+    url: https://oauth2.googleapis.com/token
+    expectedStatusCodes:
+      - 405
+
 status-website:
   cname: status.thiswasntinthebrochure.wtf
   logoUrl: https://thiswasntinthebrochure.wtf/favicon.svg
