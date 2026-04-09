@@ -202,7 +202,7 @@
     "timeMonth": 621,
     "timeYear": 621,
     "dailyMinutesDown": {
-      "2026-04-09": 440,
+      "2026-04-09": 478,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
@@ -287,7 +287,7 @@
     "timeMonth": 82,
     "timeYear": 82,
     "dailyMinutesDown": {
-      "2026-04-09": 440,
+      "2026-04-09": 478,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
@@ -340,19 +340,19 @@
     "url": "https://www.githubstatus.com/api/v2/status.json",
     "icon": "https://icons.duckduckgo.com/ip3/www.githubstatus.com.ico",
     "slug": "git-hub",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 138,
-    "timeDay": 235,
-    "timeWeek": 153,
-    "timeMonth": 138,
-    "timeYear": 138,
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "97.32%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
+    "time": 140,
+    "timeDay": 211,
+    "timeWeek": 154,
+    "timeMonth": 140,
+    "timeYear": 140,
     "dailyMinutesDown": {
-      "2026-04-09": 0
+      "2026-04-09": 39
     }
   },
   {
