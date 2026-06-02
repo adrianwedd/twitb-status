@@ -117,11 +117,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/thiswasntinthebrochure.wtf.ico",
     "slug": "health-deep",
     "status": "up",
-    "uptime": "99.38%",
+    "uptime": "99.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.86%",
-    "uptimeYear": "99.38%",
+    "uptimeYear": "99.39%",
     "time": 387,
     "timeDay": 500,
     "timeWeek": 530,
@@ -138,11 +138,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/assets.thiswasntinthebrochure.wtf.ico",
     "slug": "r2-cdn-assets",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.86%",
-    "uptimeYear": "99.44%",
+    "uptimeYear": "99.45%",
     "time": 269,
     "timeDay": 268,
     "timeWeek": 252,
@@ -207,7 +207,7 @@
     "timeMonth": 626,
     "timeYear": 611,
     "dailyMinutesDown": {
-      "2026-06-02": 32,
+      "2026-06-02": 1262,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
@@ -346,7 +346,7 @@
     "timeMonth": 76,
     "timeYear": 81,
     "dailyMinutesDown": {
-      "2026-06-02": 32,
+      "2026-06-02": 1262,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
@@ -509,9 +509,9 @@
     "url": "https://api.crossref.org/works?rows=0",
     "icon": "https://icons.duckduckgo.com/ip3/api.crossref.org.ico",
     "slug": "crossref-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -520,6 +520,8 @@
     "timeWeek": 551,
     "timeMonth": 914,
     "timeYear": 869,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-02": 0
+    }
   }
 ]
