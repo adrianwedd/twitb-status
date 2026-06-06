@@ -207,7 +207,8 @@
     "timeMonth": 599,
     "timeYear": 606,
     "dailyMinutesDown": {
-      "2026-06-05": 1423,
+      "2026-06-06": 15,
+      "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
@@ -349,7 +350,8 @@
     "timeMonth": 67,
     "timeYear": 79,
     "dailyMinutesDown": {
-      "2026-06-05": 1423,
+      "2026-06-06": 15,
+      "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
@@ -459,22 +461,23 @@
     "url": "https://www.githubstatus.com/api/v2/status.json",
     "icon": "https://icons.duckduckgo.com/ip3/www.githubstatus.com.ico",
     "slug": "git-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "86.72%",
-    "uptimeWeek": "93.92%",
+    "uptimeDay": "86.70%",
+    "uptimeWeek": "93.91%",
     "uptimeMonth": "98.60%",
     "uptimeYear": "99.32%",
-    "time": 151,
-    "timeDay": 40,
-    "timeWeek": 122,
-    "timeMonth": 144,
-    "timeYear": 151,
+    "time": 150,
+    "timeDay": 41,
+    "timeWeek": 118,
+    "timeMonth": 142,
+    "timeYear": 150,
     "dailyMinutesDown": {
       "2026-04-09": 39,
       "2026-06-03": 267,
       "2026-06-04": 154,
-      "2026-06-05": 191
+      "2026-06-05": 191,
+      "2026-06-06": 0
     }
   },
   {
@@ -482,21 +485,22 @@
     "url": "https://www.cloudflarestatus.com/api/v2/status.json",
     "icon": "https://icons.duckduckgo.com/ip3/www.cloudflarestatus.com.ico",
     "slug": "cloudflare",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "86.75%",
+    "uptimeDay": "86.73%",
     "uptimeWeek": "93.93%",
     "uptimeMonth": "98.60%",
     "uptimeYear": "99.36%",
-    "time": 244,
-    "timeDay": 72,
-    "timeWeek": 142,
-    "timeMonth": 275,
-    "timeYear": 244,
+    "time": 241,
+    "timeDay": 68,
+    "timeWeek": 138,
+    "timeMonth": 270,
+    "timeYear": 241,
     "dailyMinutesDown": {
       "2026-06-03": 267,
       "2026-06-04": 153,
-      "2026-06-05": 191
+      "2026-06-05": 191,
+      "2026-06-06": 0
     }
   },
   {
