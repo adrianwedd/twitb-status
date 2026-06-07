@@ -138,11 +138,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/assets.thiswasntinthebrochure.wtf.ico",
     "slug": "r2-cdn-assets",
     "status": "up",
-    "uptime": "99.48%",
+    "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.48%",
+    "uptimeYear": "99.49%",
     "time": 279,
     "timeDay": 443,
     "timeWeek": 379,
@@ -207,7 +207,7 @@
     "timeMonth": 592,
     "timeYear": 603,
     "dailyMinutesDown": {
-      "2026-06-07": 29,
+      "2026-06-07": 82,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
@@ -351,7 +351,7 @@
     "timeMonth": 67,
     "timeYear": 78,
     "dailyMinutesDown": {
-      "2026-06-07": 29,
+      "2026-06-07": 82,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
@@ -463,15 +463,15 @@
     "url": "https://www.githubstatus.com/api/v2/status.json",
     "icon": "https://icons.duckduckgo.com/ip3/www.githubstatus.com.ico",
     "slug": "git-hub",
-    "status": "down",
-    "uptime": "98.98%",
-    "uptimeDay": "77.35%",
-    "uptimeWeek": "90.54%",
-    "uptimeMonth": "97.82%",
-    "uptimeYear": "98.98%",
+    "status": "up",
+    "uptime": "98.92%",
+    "uptimeDay": "77.18%",
+    "uptimeWeek": "90.01%",
+    "uptimeMonth": "97.70%",
+    "uptimeYear": "98.92%",
     "time": 143,
-    "timeDay": 101,
-    "timeWeek": 110,
+    "timeDay": 97,
+    "timeWeek": 109,
     "timeMonth": 132,
     "timeYear": 143,
     "dailyMinutesDown": {
@@ -480,7 +480,7 @@
       "2026-06-04": 154,
       "2026-06-05": 191,
       "2026-06-06": 310,
-      "2026-06-07": 29
+      "2026-06-07": 82
     }
   },
   {
@@ -488,15 +488,15 @@
     "url": "https://www.cloudflarestatus.com/api/v2/status.json",
     "icon": "https://icons.duckduckgo.com/ip3/www.cloudflarestatus.com.ico",
     "slug": "cloudflare",
-    "status": "down",
-    "uptime": "99.02%",
-    "uptimeDay": "77.43%",
-    "uptimeWeek": "90.56%",
-    "uptimeMonth": "97.83%",
-    "uptimeYear": "99.02%",
+    "status": "up",
+    "uptime": "98.97%",
+    "uptimeDay": "77.26%",
+    "uptimeWeek": "90.04%",
+    "uptimeMonth": "97.71%",
+    "uptimeYear": "98.97%",
     "time": 225,
-    "timeDay": 116,
-    "timeWeek": 129,
+    "timeDay": 117,
+    "timeWeek": 133,
     "timeMonth": 238,
     "timeYear": 225,
     "dailyMinutesDown": {
@@ -504,7 +504,7 @@
       "2026-06-04": 153,
       "2026-06-05": 191,
       "2026-06-06": 310,
-      "2026-06-07": 29
+      "2026-06-07": 82
     }
   },
   {
