@@ -207,7 +207,7 @@
     "timeMonth": 549,
     "timeYear": 605,
     "dailyMinutesDown": {
-      "2026-06-13": 712,
+      "2026-06-13": 748,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -357,7 +357,7 @@
     "timeMonth": 65,
     "timeYear": 78,
     "dailyMinutesDown": {
-      "2026-06-13": 712,
+      "2026-06-13": 748,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -475,15 +475,15 @@
     "url": "https://www.githubstatus.com/api/v2/status.json",
     "icon": "https://icons.duckduckgo.com/ip3/www.githubstatus.com.ico",
     "slug": "git-hub",
-    "status": "down",
-    "uptime": "98.66%",
-    "uptimeDay": "94.92%",
-    "uptimeWeek": "94.50%",
-    "uptimeMonth": "96.83%",
-    "uptimeYear": "98.66%",
+    "status": "up",
+    "uptime": "98.63%",
+    "uptimeDay": "92.47%",
+    "uptimeWeek": "94.15%",
+    "uptimeMonth": "96.75%",
+    "uptimeYear": "98.63%",
     "time": 138,
     "timeDay": 93,
-    "timeWeek": 107,
+    "timeWeek": 106,
     "timeMonth": 120,
     "timeYear": 138,
     "dailyMinutesDown": {
@@ -496,7 +496,7 @@
       "2026-06-09": 69,
       "2026-06-10": 188,
       "2026-06-12": 73,
-      "2026-06-13": 0
+      "2026-06-13": 36
     }
   },
   {
@@ -504,17 +504,17 @@
     "url": "https://www.cloudflarestatus.com/api/v2/status.json",
     "icon": "https://icons.duckduckgo.com/ip3/www.cloudflarestatus.com.ico",
     "slug": "cloudflare",
-    "status": "down",
-    "uptime": "98.70%",
-    "uptimeDay": "94.95%",
-    "uptimeWeek": "94.52%",
-    "uptimeMonth": "96.84%",
-    "uptimeYear": "98.70%",
-    "time": 214,
-    "timeDay": 123,
-    "timeWeek": 142,
-    "timeMonth": 152,
-    "timeYear": 214,
+    "status": "up",
+    "uptime": "98.67%",
+    "uptimeDay": "92.50%",
+    "uptimeWeek": "94.17%",
+    "uptimeMonth": "96.76%",
+    "uptimeYear": "98.67%",
+    "time": 216,
+    "timeDay": 169,
+    "timeWeek": 150,
+    "timeMonth": 155,
+    "timeYear": 216,
     "dailyMinutesDown": {
       "2026-06-03": 267,
       "2026-06-04": 153,
@@ -524,7 +524,7 @@
       "2026-06-09": 69,
       "2026-06-10": 188,
       "2026-06-12": 72,
-      "2026-06-13": 0
+      "2026-06-13": 36
     }
   },
   {
