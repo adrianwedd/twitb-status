@@ -207,7 +207,7 @@
     "timeMonth": 528,
     "timeYear": 598,
     "dailyMinutesDown": {
-      "2026-06-16": 37,
+      "2026-06-16": 89,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
@@ -360,7 +360,7 @@
     "timeMonth": 58,
     "timeYear": 77,
     "dailyMinutesDown": {
-      "2026-06-16": 37,
+      "2026-06-16": 89,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
@@ -481,17 +481,17 @@
     "url": "https://www.githubstatus.com/api/v2/status.json",
     "icon": "https://icons.duckduckgo.com/ip3/www.githubstatus.com.ico",
     "slug": "git-hub",
-    "status": "down",
-    "uptime": "98.21%",
-    "uptimeDay": "84.11%",
-    "uptimeWeek": "91.26%",
-    "uptimeMonth": "95.58%",
-    "uptimeYear": "98.21%",
-    "time": 132,
-    "timeDay": 64,
-    "timeWeek": 99,
-    "timeMonth": 112,
-    "timeYear": 132,
+    "status": "up",
+    "uptime": "98.16%",
+    "uptimeDay": "80.52%",
+    "uptimeWeek": "90.75%",
+    "uptimeMonth": "95.46%",
+    "uptimeYear": "98.16%",
+    "time": 133,
+    "timeDay": 89,
+    "timeWeek": 104,
+    "timeMonth": 113,
+    "timeYear": 133,
     "dailyMinutesDown": {
       "2026-04-09": 39,
       "2026-06-03": 267,
@@ -505,7 +505,7 @@
       "2026-06-13": 36,
       "2026-06-14": 286,
       "2026-06-15": 193,
-      "2026-06-16": 36
+      "2026-06-16": 87
     }
   },
   {
@@ -513,15 +513,15 @@
     "url": "https://www.cloudflarestatus.com/api/v2/status.json",
     "icon": "https://icons.duckduckgo.com/ip3/www.cloudflarestatus.com.ico",
     "slug": "cloudflare",
-    "status": "down",
-    "uptime": "98.25%",
-    "uptimeDay": "84.15%",
-    "uptimeWeek": "91.28%",
-    "uptimeMonth": "95.59%",
-    "uptimeYear": "98.25%",
+    "status": "up",
+    "uptime": "98.20%",
+    "uptimeDay": "80.56%",
+    "uptimeWeek": "90.77%",
+    "uptimeMonth": "95.47%",
+    "uptimeYear": "98.20%",
     "time": 239,
-    "timeDay": 105,
-    "timeWeek": 297,
+    "timeDay": 127,
+    "timeWeek": 296,
     "timeMonth": 201,
     "timeYear": 239,
     "dailyMinutesDown": {
@@ -536,7 +536,7 @@
       "2026-06-13": 36,
       "2026-06-14": 286,
       "2026-06-15": 193,
-      "2026-06-16": 36
+      "2026-06-16": 87
     }
   },
   {
