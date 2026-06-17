@@ -207,7 +207,8 @@
     "timeMonth": 516,
     "timeYear": 597,
     "dailyMinutesDown": {
-      "2026-06-16": 1428,
+      "2026-06-17": 33,
+      "2026-06-16": 1440,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
@@ -360,7 +361,8 @@
     "timeMonth": 57,
     "timeYear": 77,
     "dailyMinutesDown": {
-      "2026-06-16": 1428,
+      "2026-06-17": 33,
+      "2026-06-16": 1440,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
@@ -482,13 +484,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.githubstatus.com.ico",
     "slug": "git-hub",
     "status": "up",
-    "uptime": "98.17%",
-    "uptimeDay": "93.00%",
-    "uptimeWeek": "91.31%",
-    "uptimeMonth": "95.43%",
-    "uptimeYear": "98.17%",
+    "uptime": "98.18%",
+    "uptimeDay": "96.09%",
+    "uptimeWeek": "91.44%",
+    "uptimeMonth": "95.46%",
+    "uptimeYear": "98.18%",
     "time": 134,
-    "timeDay": 169,
+    "timeDay": 196,
     "timeWeek": 110,
     "timeMonth": 115,
     "timeYear": 134,
@@ -505,7 +507,7 @@
       "2026-06-13": 36,
       "2026-06-14": 286,
       "2026-06-15": 193,
-      "2026-06-16": 101
+      "2026-06-16": 87
     }
   },
   {
@@ -514,13 +516,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cloudflarestatus.com.ico",
     "slug": "cloudflare",
     "status": "up",
-    "uptime": "98.21%",
-    "uptimeDay": "93.02%",
-    "uptimeWeek": "91.33%",
-    "uptimeMonth": "95.44%",
-    "uptimeYear": "98.21%",
+    "uptime": "98.22%",
+    "uptimeDay": "96.09%",
+    "uptimeWeek": "91.46%",
+    "uptimeMonth": "95.47%",
+    "uptimeYear": "98.22%",
     "time": 238,
-    "timeDay": 159,
+    "timeDay": 200,
     "timeWeek": 295,
     "timeMonth": 202,
     "timeYear": 238,
@@ -536,7 +538,7 @@
       "2026-06-13": 36,
       "2026-06-14": 286,
       "2026-06-15": 193,
-      "2026-06-16": 100
+      "2026-06-16": 87
     }
   },
   {
