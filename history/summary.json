@@ -207,7 +207,7 @@
     "timeMonth": 526,
     "timeYear": 599,
     "dailyMinutesDown": {
-      "2026-06-18": 482,
+      "2026-06-18": 583,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
@@ -362,7 +362,7 @@
     "timeMonth": 57,
     "timeYear": 76,
     "dailyMinutesDown": {
-      "2026-06-18": 482,
+      "2026-06-18": 583,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
@@ -485,16 +485,16 @@
     "url": "https://www.githubstatus.com/api/v2/status.json",
     "icon": "https://icons.duckduckgo.com/ip3/www.githubstatus.com.ico",
     "slug": "git-hub",
-    "status": "down",
-    "uptime": "98.20%",
-    "uptimeDay": "98.69%",
-    "uptimeWeek": "93.12%",
-    "uptimeMonth": "95.42%",
-    "uptimeYear": "98.20%",
+    "status": "up",
+    "uptime": "98.11%",
+    "uptimeDay": "91.70%",
+    "uptimeWeek": "92.12%",
+    "uptimeMonth": "95.19%",
+    "uptimeYear": "98.11%",
     "time": 133,
-    "timeDay": 84,
-    "timeWeek": 112,
-    "timeMonth": 114,
+    "timeDay": 109,
+    "timeWeek": 115,
+    "timeMonth": 115,
     "timeYear": 133,
     "dailyMinutesDown": {
       "2026-04-09": 39,
@@ -511,7 +511,7 @@
       "2026-06-15": 193,
       "2026-06-16": 87,
       "2026-06-17": 18,
-      "2026-06-18": 1
+      "2026-06-18": 101
     }
   },
   {
@@ -519,16 +519,16 @@
     "url": "https://www.cloudflarestatus.com/api/v2/status.json",
     "icon": "https://icons.duckduckgo.com/ip3/www.cloudflarestatus.com.ico",
     "slug": "cloudflare",
-    "status": "down",
-    "uptime": "98.24%",
-    "uptimeDay": "98.72%",
-    "uptimeWeek": "93.14%",
-    "uptimeMonth": "95.43%",
-    "uptimeYear": "98.24%",
+    "status": "up",
+    "uptime": "98.15%",
+    "uptimeDay": "91.73%",
+    "uptimeWeek": "92.14%",
+    "uptimeMonth": "95.20%",
+    "uptimeYear": "98.15%",
     "time": 235,
-    "timeDay": 108,
-    "timeWeek": 310,
-    "timeMonth": 198,
+    "timeDay": 138,
+    "timeWeek": 306,
+    "timeMonth": 199,
     "timeYear": 235,
     "dailyMinutesDown": {
       "2026-06-03": 267,
@@ -544,7 +544,7 @@
       "2026-06-15": 193,
       "2026-06-16": 87,
       "2026-06-17": 18,
-      "2026-06-18": 0
+      "2026-06-18": 101
     }
   },
   {
