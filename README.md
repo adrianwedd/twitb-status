@@ -1,4 +1,4 @@
-# [📈 Live status](https://adrianwedd.github.io/status): <!--live status--> **🟧 Partial outage**
+# [📈 Live status](https://status.thiswasntinthebrochure.wtf): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [Adrian Wedd](https://adrianwedd.com), powered by [Upptime](https://github.com/upptime/upptime).
 
@@ -8,7 +8,7 @@ This repository contains the open-source uptime monitor and status page for [Adr
 [![Static Site CI](https://github.com/adrianwedd/twitb-status/workflows/Static%20Site%20CI/badge.svg)](https://github.com/adrianwedd/twitb-status/actions/workflows/site.yml)
 [![Summary CI](https://github.com/adrianwedd/twitb-status/workflows/Summary%20CI/badge.svg)](https://github.com/adrianwedd/twitb-status/actions/workflows/summary.yml)
 
-With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/adrianwedd/status/issues) as incident reports, [Actions](https://github.com/adrianwedd/status/actions) as uptime monitors, and [Pages](https://adrianwedd.github.io/status) for the status page.
+With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/adrianwedd/twitb-status/issues) as incident reports, [Actions](https://github.com/adrianwedd/twitb-status/actions) as uptime monitors, and [Pages](https://status.thiswasntinthebrochure.wtf) for the status page.
 
 ## [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟧 Partial outage**
 
@@ -42,7 +42,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://adrianwedd.github.io/status)
+[**Visit our status website →**](https://status.thiswasntinthebrochure.wtf)
 
 ## 📄 License
 

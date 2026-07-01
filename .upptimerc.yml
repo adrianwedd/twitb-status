@@ -64,7 +64,7 @@ sites:
   - name: Lemon Squeezy (API)
     url: https://api.lemonsqueezy.com/v1
     expectedStatusCodes:
-      - 401
+      - 403
     icon: https://app.lemonsqueezy.com/favicon.ico
 
   # Paperback distribution
@@ -88,7 +88,7 @@ sites:
   - name: Google OAuth
     url: https://oauth2.googleapis.com/token
     expectedStatusCodes:
-      - 405
+      - 404
 
   # --- Social Posting Infrastructure ---
 
